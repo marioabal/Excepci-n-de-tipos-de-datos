@@ -1,0 +1,26 @@
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.exe
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.deps.json
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.runtimeconfig.json
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.runtimeconfig.dev.json
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.dll
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.pdb
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.csprojAssemblyReference.cache
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.AssemblyInfoInputs.cache
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.AssemblyInfo.cs
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.csproj.CoreCompileInputs.cache
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.dll
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.pdb
+C:\Users\chobe\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.genruntimeconfig.cache
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.exe
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.deps.json
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.runtimeconfig.json
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.runtimeconfig.dev.json
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.dll
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\bin\Debug\netcoreapp3.1\Operaciones aritméticas.pdb
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.csprojAssemblyReference.cache
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.AssemblyInfoInputs.cache
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.AssemblyInfo.cs
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.csproj.CoreCompileInputs.cache
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.dll
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.pdb
+C:\Users\chobe\Documents\Tareas 2021\Visual Studio 2019\source\repos\Operaciones aritméticas\Operaciones aritméticas\obj\Debug\netcoreapp3.1\Operaciones aritméticas.genruntimeconfig.cache
